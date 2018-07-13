@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/tutorial_3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#69#70#0" expanded="true" />
                 <element signature="e#105#106#0" expanded="true" />
@@ -72,7 +72,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="213" />
     <option name="y" value="357" />
     <option name="width" value="1482" />
@@ -211,15 +211,15 @@
       <option name="presentableId" value="Default" />
       <updated>1531426800345</updated>
       <workItem from="1531426803185" duration="2666000" />
-      <workItem from="1531473765087" duration="1080000" />
+      <workItem from="1531473765087" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3746000" />
+    <option name="totallyTimeSpent" value="4353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -277,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/src/tutorial_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
